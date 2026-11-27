@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14463417798",
+    "project_id": "casefile-soumy-2026",
+    "storage_bucket": "casefile-soumy-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14463417798:android:1f2ea2b1b49e1a167006c7",
+        "android_client_info": {
+          "package_name": "com.example.casefile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ8sMLvXHugSUQ2tf2t_Bv9ibX1Q6AG1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

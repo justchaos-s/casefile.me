@@ -1,0 +1,2 @@
+# Run these inside your Flutter project (they pick the latest compatible versions)
+flutter pub add firebase_core firebase_auth cloud_firestore http google_fonts intl
